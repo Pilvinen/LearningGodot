@@ -6,8 +6,8 @@ namespace LearningGodot {
     
     // This example shows lazy initialization of properties.
     // *****************************************************
-    // Lazy initialization can be used in situations where you want to have the property value initialized - not right
-    // from the start, but only after it's actually being used.
+    // Lazy initialization can be used in situations where you want to have property value initialized - not
+    // right from the start - but rather when it is being accessed for the first time.
     // The value of the property is initially null.
     // When the value is being accessed for the first time then, and only then, it gets its value.
     // After the property's value has been assigned it will hold its value normally.
