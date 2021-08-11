@@ -6,6 +6,14 @@ Functional programming practices and data oriented design will be emphasized whe
 
 All in all the goal is to use real world - useful - practices and examples where real game design challenges, code architecture, and code structure are addressed.
 
+### Structure
+```
+Sources/          - C# scripts.
+Scenes/           - Godot scenes.
+Scenes/Main.tscn  - Main scene.
+Sources/Main.cs   - C# script for main scene.
+```
+
 # Contents
 
 ## Lazy initialization
